@@ -1,3 +1,0 @@
-# Test .txt doc 2
-
-This is a SECOND test file intended to test GIT's ability to ignore (not list) files with a .txt extension.
